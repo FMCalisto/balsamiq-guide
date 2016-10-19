@@ -2,10 +2,6 @@
 
 ![alt tag](assets/cover.png "Cover")
 
-## Master Project Repository
-
-Abstracted from a Master Project at [ISR](http://welcome.isr.tecnico.ulisboa.pt/), [IST](http://tecnico.ulisboa.pt/) - [Universidade de Lisboa](http://ulisboa.pt/).
-
 ### Created by
 
 [Francisco Maria Calisto](http://web.tecnico.ulisboa.pt/francisco.calisto/ "Francisco's Academic Profile")  
