@@ -1,22 +1,32 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% How to use writeLaTeX: 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Guide Book (Documentation Template)
+% LaTeX Template
+% Version 1.0 (20/10/16)
 %
-% You edit the source code here on the left, and the preview on the
-% right shows you the result within a few seconds.
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
 %
-% Bookmark this page and share the URL with your co-authors. They can
-% edit at the same time!
+% Original author:
+% Francisco Maria Calisto
 %
-% You can upload figures, bibliographies, custom classes and
-% styles using the files menu.
+% License:
+% Apache License (Version 2.0)
 %
-% If you're new to LaTeX, the wikibook is a great place to start:
-% http://en.wikibooks.org/wiki/LaTeX
+% IMPORTANT NOTE:
+% In addition to running BibTeX to compile the reference list from the .bib
+% file, you will need to run MakeIndex to compile the index at the end of the
+% document.
 %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\documentclass{tufte-book}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%------------------------------------------------------------------------------
+
+\documentclass{tufte-book} % Use the tufte-book class which in turn uses the tufte-common class
 
 \usepackage{graphicx}
+\graphicspath{ {graphics/} }
 
 % encoding
 %--------------------------------------
@@ -37,9 +47,9 @@
 
 %%
 % Book metadata
-\title{Guia Balsamiq\thanks{Professor Joaquim Jorge}}
-\author[The Tufte-LaTeX Developers]{Usabilidade e Sistemas de Informação}
-\publisher{Francisco Maria Calisto}
+\title{Guia Balsamiq\\(PT)}
+\author[Professor]{Francisco Maria Calisto}
+\publisher{Usabilidade e Sistemas de Informação}
 
 %%
 % If they're installed, use Bergamo and Chantilly from www.fontsite.com.
@@ -191,7 +201,7 @@
 \chapter*{Introdução}
 
 \begin{center}
-	\includegraphics[width=16.50cm]{media/img1.png}
+	\includegraphics[width=15cm]{img1.png}
 \end{center}
 
 O Balsamiq é uma ferramenta de prototipagem rápida e pragmática que pode ser usada para criar wireframes e protótipos de várias aplicações.
@@ -206,13 +216,64 @@ Neste guia serão explicados alguns fundamentos de iniciação ao Balsamiq e com
 % Start the main matter (normal chapters)
 \mainmatter
 
-
-\chapter{Aceder ao MyBalsamiq}
+\chapter{Instalação}
 
 Por favor aceda ao \href{https://tecnico.mybalsamiq.com/}{MyBalsamiq} e introduza as suas credenciais.
 
 \begin{center}
-	\includegraphics[width=16.50cm]{media/img2.png}
+	\includegraphics{img25.png}
+\end{center}
+
+Ou aceda ao link \href{https://balsamiq.com/}{balsamiq.com} e faça o download da aplicação para Desktop.
+
+\begin{center}
+	\includegraphics{img2.png}
+\end{center}
+
+Este guia será feito para a aplicação Desktop muito semelhante à aplicação em ambiente Web.
+
+\chapter{Criar um Mockup}
+
+\begin{center}
+	\includegraphics{img3.png}
+\end{center}
+
+Esta é a página que verá quando abre o Balsamiq. É um novo projeto em branco.
+
+\begin{center}
+	\includegraphics{img4.png}
+\end{center}
+
+Uma nova maquete é uma nova vista para a aplicação que irá criar.
+
+Por padrão, terá uma vista em branco aberto. Mas, se quiser vistas adicionais, clique no símbolo + marcado com uma caixa vermelha como pode ver na imagem.
+
+O smiley como ícone no canto superior direito é um atalho para abrir o painel componente onde você vai encontrar todos os seus componentes que usam lata em seu projeto.
+
+\chapter{Recursos da ferramenta}
+
+Existe um ícone de propriedades do projeto no canto superior direito onde pode definir as propriedades gerais do projeto. Tais como, descrição, skin, fontes de letra e cores.
+
+\begin{center}
+	\includegraphics{img5.png}
+\end{center}
+
+São dadas duas opções diferentes para a skin do Balsamiq - Sketch e wireframe.
+
+É bastante auto-explicativo.
+
+Sketch dá uma aparência áspera para o protótipo e wireframe parece mais limpo.
+
+\break
+
+Pode ver a diferença entre as duas imagens abaixo:
+
+\begin{center}
+	\includegraphics{img6.png}
+\end{center}
+
+\begin{center}
+	\includegraphics{img7.png}
 \end{center}
 
 %%
