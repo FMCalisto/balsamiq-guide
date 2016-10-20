@@ -43,7 +43,6 @@
     {% two-side
       \renewcommand{\chaptermark}[1]{\markboth{##1}{}}%
       \fancyhead[LE]{\thepage\quad\smallcaps{\newlinetospace{\plaintitle}}}% book title
-      \fancyhead[RO]{\smallcaps{\newlinetospace{\leftmark}}\quad\thepage}% chapter title
     }%
     {% one-side
       \fancyhead[RE,RO]{\smallcaps{\newlinetospace{\plaintitle}}\quad\thepage}% book title

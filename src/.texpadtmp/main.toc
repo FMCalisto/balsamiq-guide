@@ -3,6 +3,6 @@
 \contentsline {chapter}{Criar um Mockup}{9}{chapter*.4}
 \contentsline {chapter}{Recursos da ferramenta}{11}{chapter*.5}
 \contentsline {chapter}{Criar Vistas}{17}{chapter*.6}
-\contentsline {chapter}{Informa\IeC {\c c}\IeC {\~o}es}{29}{chapter*.7}
-\contentsline {chapter}{Bibliografia}{31}{chapter*.8}
+\contentsline {chapter}{Sum\IeC {\'a}rio}{29}{chapter*.7}
+\contentsline {chapter}{Informa\IeC {\c c}\IeC {\~o}es}{31}{chapter*.8}
 \contentsfinish 
