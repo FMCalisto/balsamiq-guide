@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.23)  20 OCT 2016 13:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.23)  22 OCT 2016 18:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -937,256 +937,240 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
  [1
 
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
-
-
-] (/Users/Francisco/GitHub/balsamiq-guide/src/.texpadtmp/main.toc)
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/Francisco/GitHub/balsamiq-guide/src/.texpadtmp/main.toc)
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [3] [4
+ [2
 
-] <graphics/img1.png, id=61, 1204.5pt x 902.37125pt>
+
+] <graphics/img1.png, id=59, 1204.5pt x 902.37125pt>
 File: graphics/img1.png Graphic file (type png)
  <use graphics/img1.png>
-Package pdftex.def Info: graphics/img1.png used on input line 204.
+Package pdftex.def Info: graphics/img1.png used on input line 207.
 (pdftex.def)             Requested size: 426.801pt x 319.74509pt.
- [5
+ [3
 
- <./graphics/img1.png (PNG copy)>] [6
+ <./graphics/img1.png (PNG copy)>] <graphics/img26.png, id=67, 1445.4pt x 801.99625pt>
+File: graphics/img26.png Graphic file (type png)
+ <use graphics/img26.png>
+Package pdftex.def Info: graphics/img26.png used on input line 227.
+(pdftex.def)             Requested size: 213.38211pt x 118.39743pt.
+ <graphics/img27.png, id=69, 1445.4pt x 758.835pt>
+File: graphics/img27.png Graphic file (type png)
+ <use graphics/img27.png>
+Package pdftex.def Info: graphics/img27.png used on input line 229.
+(pdftex.def)             Requested size: 213.38211pt x 112.0256pt.
+LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10> not available
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 234.
+ <graphics/img28.png, id=70, 1445.4pt x 804.00375pt>
+File: graphics/img28.png Graphic file (type png)
+ <use graphics/img28.png>
+Package pdftex.def Info: graphics/img28.png used on input line 239.
+(pdftex.def)             Requested size: 469.74944pt x 261.29813pt.
+ [4
 
-] <graphics/img25.png, id=73, 1445.4pt x 801.99625pt>
-File: graphics/img25.png Graphic file (type png)
- <use graphics/img25.png>
-Package pdftex.def Info: graphics/img25.png used on input line 224.
-(pdftex.def)             Requested size: 469.74944pt x 260.64569pt.
- <graphics/img2.png, id=76, 803.0pt x 432.61626pt>
+
+ <./graphics/img26.png> <./graphics/img27.png> <./graphics/img28.png>] <graphics/img2.png, id=80, 803.0pt x 432.61626pt>
 File: graphics/img2.png Graphic file (type png)
  <use graphics/img2.png>
-Package pdftex.def Info: graphics/img2.png used on input line 230.
+Package pdftex.def Info: graphics/img2.png used on input line 249.
 (pdftex.def)             Requested size: 469.7715pt x 253.08939pt.
+ [5
+
+ <./graphics/img2.png (PNG copy)>] <graphics/img3.png, id=85, 1405.25pt x 792.9625pt>
+File: graphics/img3.png Graphic file (type png)
+ <use graphics/img3.png>
+Package pdftex.def Info: graphics/img3.png used on input line 261.
+(pdftex.def)             Requested size: 327.21042pt x 184.64017pt.
+ <graphics/img4.png, id=86, 1405.25pt x 792.9625pt>
+File: graphics/img4.png Graphic file (type png)
+ <use graphics/img4.png>
+Package pdftex.def Info: graphics/img4.png used on input line 267.
+(pdftex.def)             Requested size: 327.21042pt x 184.64017pt.
+ [6
+
+ <./graphics/img3.png (PNG copy)> <./graphics/img4.png (PNG copy)>] <graphics/img5.png, id=91, 1405.25pt x 790.955pt>
+File: graphics/img5.png Graphic file (type png)
+ <use graphics/img5.png>
+Package pdftex.def Info: graphics/img5.png used on input line 281.
+(pdftex.def)             Requested size: 213.39436pt x 120.11055pt.
+ <graphics/img6.png, id=92, 1405.25pt x 784.9325pt>
+File: graphics/img6.png Graphic file (type png)
+ <use graphics/img6.png>
+Package pdftex.def Info: graphics/img6.png used on input line 293.
+(pdftex.def)             Requested size: 213.39436pt x 119.196pt.
+ <graphics/img7.png, id=93, 1405.25pt x 784.9325pt>
+File: graphics/img7.png Graphic file (type png)
+ <use graphics/img7.png>
+Package pdftex.def Info: graphics/img7.png used on input line 295.
+(pdftex.def)             Requested size: 213.39436pt x 119.196pt.
+ <graphics/img8.png, id=94, 1405.25pt x 786.94pt>
+File: graphics/img8.png Graphic file (type png)
+ <use graphics/img8.png>
+Package pdftex.def Info: graphics/img8.png used on input line 303.
+(pdftex.def)             Requested size: 213.39436pt x 119.50084pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7
 
- <./graphics/img25.png>] [8 <./graphics/img2.png (PNG copy)>] <graphics/img3.png, id=87, 1405.25pt x 792.9625pt>
-File: graphics/img3.png Graphic file (type png)
- <use graphics/img3.png>
-Package pdftex.def Info: graphics/img3.png used on input line 238.
-(pdftex.def)             Requested size: 469.75925pt x 265.07841pt.
- <graphics/img4.png, id=88, 1405.25pt x 792.9625pt>
-File: graphics/img4.png Graphic file (type png)
- <use graphics/img4.png>
-Package pdftex.def Info: graphics/img4.png used on input line 244.
-(pdftex.def)             Requested size: 469.75925pt x 265.07841pt.
+ <./graphics/img5.png (PNG copy)> <./graphics/img6.png (PNG copy)> <./graphics/img7.png (PNG copy)>] <graphics/img9.png, id=100, 803.0pt x 451.6875pt>
+File: graphics/img9.png Graphic file (type png)
+ <use graphics/img9.png>
+Package pdftex.def Info: graphics/img9.png used on input line 311.
+(pdftex.def)             Requested size: 213.39436pt x 120.03433pt.
+ <graphics/img10.png, id=101, 803.0pt x 448.67625pt>
+File: graphics/img10.png Graphic file (type png)
+ <use graphics/img10.png>
+Package pdftex.def Info: graphics/img10.png used on input line 317.
+(pdftex.def)             Requested size: 213.39436pt x 119.2341pt.
+ [8 <./graphics/img8.png (PNG copy)> <./graphics/img9.png (PNG copy)> <./graphics/img10.png (PNG copy)>] <graphics/img11.png, id=106, 803.0pt x 439.6425pt>
+File: graphics/img11.png Graphic file (type png)
+ <use graphics/img11.png>
+Package pdftex.def Info: graphics/img11.png used on input line 331.
+(pdftex.def)             Requested size: 298.75948pt x 163.5708pt.
+ <graphics/img12.png, id=107, 803.0pt x 486.81876pt>
+File: graphics/img12.png Graphic file (type png)
+ <use graphics/img12.png>
+Package pdftex.def Info: graphics/img12.png used on input line 337.
+(pdftex.def)             Requested size: 298.75948pt x 181.12292pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1028) has occurred while \output is active []
 
  [9
 
- <./graphics/img3.png (PNG copy)>] [10 <./graphics/img4.png (PNG copy)>] <graphics/img5.png, id=97, 1405.25pt x 790.955pt>
-File: graphics/img5.png Graphic file (type png)
- <use graphics/img5.png>
-Package pdftex.def Info: graphics/img5.png used on input line 258.
-(pdftex.def)             Requested size: 469.75925pt x 264.40735pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11
-
- <./graphics/img5.png (PNG copy)>] <graphics/img6.png, id=102, 1405.25pt x 784.9325pt>
-File: graphics/img6.png Graphic file (type png)
- <use graphics/img6.png>
-Package pdftex.def Info: graphics/img6.png used on input line 272.
-(pdftex.def)             Requested size: 469.75925pt x 262.39407pt.
- <graphics/img7.png, id=103, 1405.25pt x 784.9325pt>
-File: graphics/img7.png Graphic file (type png)
- <use graphics/img7.png>
-Package pdftex.def Info: graphics/img7.png used on input line 276.
-(pdftex.def)             Requested size: 469.75925pt x 262.39407pt.
- [12 <./graphics/img6.png (PNG copy)> <./graphics/img7.png (PNG copy)>] <graphics/img8.png, id=108, 1405.25pt x 786.94pt>
-File: graphics/img8.png Graphic file (type png)
- <use graphics/img8.png>
-Package pdftex.def Info: graphics/img8.png used on input line 284.
-(pdftex.def)             Requested size: 469.75925pt x 263.06517pt.
- <graphics/img9.png, id=109, 803.0pt x 451.6875pt>
-File: graphics/img9.png Graphic file (type png)
- <use graphics/img9.png>
-Package pdftex.def Info: graphics/img9.png used on input line 292.
-(pdftex.def)             Requested size: 469.7715pt x 264.24646pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13 <./graphics/img8.png (PNG copy)>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14 <./graphics/img9.png (PNG copy)>] <graphics/img10.png, id=119, 803.0pt x 448.67625pt>
-File: graphics/img10.png Graphic file (type png)
- <use graphics/img10.png>
-Package pdftex.def Info: graphics/img10.png used on input line 300.
-(pdftex.def)             Requested size: 469.7715pt x 262.48482pt.
- [15 <./graphics/img10.png (PNG copy)>] [16
-
-] <graphics/img11.png, id=128, 803.0pt x 439.6425pt>
-File: graphics/img11.png Graphic file (type png)
- <use graphics/img11.png>
-Package pdftex.def Info: graphics/img11.png used on input line 314.
-(pdftex.def)             Requested size: 469.7715pt x 257.19987pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17 <./graphics/img11.png (PNG copy)>] <graphics/img12.png, id=133, 803.0pt x 486.81876pt>
-File: graphics/img12.png Graphic file (type png)
- <use graphics/img12.png>
-Package pdftex.def Info: graphics/img12.png used on input line 322.
-(pdftex.def)             Requested size: 469.7715pt x 284.79897pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18 <./graphics/img12.png (PNG copy)>] <graphics/img13.png, id=138, 602.25pt x 536.0025pt>
+ <./graphics/img11.png (PNG copy)> <./graphics/img12.png (PNG copy)>] <graphics/img13.png, id=112, 602.25pt x 536.0025pt>
 File: graphics/img13.png Graphic file (type png)
  <use graphics/img13.png>
-Package pdftex.def Info: graphics/img13.png used on input line 330.
-(pdftex.def)             Requested size: 469.77148pt x 418.09662pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19 <./graphics/img13.png (PNG copy)>] <graphics/img14.png, id=144, 803.0pt x 451.6875pt>
+Package pdftex.def Info: graphics/img13.png used on input line 345.
+(pdftex.def)             Requested size: 213.4005pt x 189.92644pt.
+ <graphics/img14.png, id=113, 803.0pt x 451.6875pt>
 File: graphics/img14.png Graphic file (type png)
  <use graphics/img14.png>
-Package pdftex.def Info: graphics/img14.png used on input line 342.
-(pdftex.def)             Requested size: 469.7715pt x 264.24646pt.
- <graphics/img15.png, id=145, 803.0pt x 452.69125pt>
+Package pdftex.def Info: graphics/img14.png used on input line 355.
+(pdftex.def)             Requested size: 213.39436pt x 120.03433pt.
+ <graphics/img15.png, id=114, 803.0pt x 452.69125pt>
 File: graphics/img15.png Graphic file (type png)
  <use graphics/img15.png>
-Package pdftex.def Info: graphics/img15.png used on input line 348.
-(pdftex.def)             Requested size: 469.7715pt x 264.83366pt.
- [20 <./graphics/img14.png (PNG copy)> <./graphics/img15.png (PNG copy)>] <graphics/img16.png, id=150, 803.0pt x 548.0475pt>
+Package pdftex.def Info: graphics/img15.png used on input line 361.
+(pdftex.def)             Requested size: 213.39436pt x 120.30107pt.
+ [10 <./graphics/img13.png (PNG copy)> <./graphics/img14.png (PNG copy)> <./graphics/img15.png (PNG copy)>] <graphics/img16.png, id=119, 803.0pt x 548.0475pt>
 File: graphics/img16.png Graphic file (type png)
  <use graphics/img16.png>
-Package pdftex.def Info: graphics/img16.png used on input line 354.
-(pdftex.def)             Requested size: 469.7715pt x 320.61903pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21 <./graphics/img16.png (PNG copy)>] <graphics/img17.png, id=155, 803.0pt x 436.63126pt>
+Package pdftex.def Info: graphics/img16.png used on input line 369.
+(pdftex.def)             Requested size: 213.39436pt x 145.64165pt.
+ <graphics/img17.png, id=120, 803.0pt x 436.63126pt>
 File: graphics/img17.png Graphic file (type png)
  <use graphics/img17.png>
-Package pdftex.def Info: graphics/img17.png used on input line 362.
-(pdftex.def)             Requested size: 469.7715pt x 255.43825pt.
- <graphics/img18.png, id=156, 803.0pt x 438.63875pt>
+Package pdftex.def Info: graphics/img17.png used on input line 375.
+(pdftex.def)             Requested size: 213.39436pt x 116.03319pt.
+ <graphics/img18.png, id=121, 803.0pt x 438.63875pt>
 File: graphics/img18.png Graphic file (type png)
  <use graphics/img18.png>
-Package pdftex.def Info: graphics/img18.png used on input line 368.
-(pdftex.def)             Requested size: 469.7715pt x 256.61267pt.
- <graphics/img19.png, id=157, 602.25pt x 524.96124pt>
+Package pdftex.def Info: graphics/img18.png used on input line 381.
+(pdftex.def)             Requested size: 213.39436pt x 116.56667pt.
+ <graphics/img19.png, id=122, 602.25pt x 524.96124pt>
 File: graphics/img19.png Graphic file (type png)
  <use graphics/img19.png>
-Package pdftex.def Info: graphics/img19.png used on input line 374.
-(pdftex.def)             Requested size: 469.77148pt x 409.48415pt.
- [22 <./graphics/img17.png> <./graphics/img18.png>]
+Package pdftex.def Info: graphics/img19.png used on input line 387.
+(pdftex.def)             Requested size: 213.4005pt x 186.0141pt.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23 <./graphics/img19.png (PNG copy)>] <graphics/img20.png, id=166, 602.25pt x 456.70625pt>
+ [11 <./graphics/img16.png (PNG copy)> <./graphics/img17.png> <./graphics/img18.png>] <graphics/img20.png, id=127, 602.25pt x 456.70625pt>
 File: graphics/img20.png Graphic file (type png)
  <use graphics/img20.png>
-Package pdftex.def Info: graphics/img20.png used on input line 384.
-(pdftex.def)             Requested size: 469.77148pt x 356.24336pt.
- <graphics/img21.png, id=167, 602.25pt x 339.2675pt>
+Package pdftex.def Info: graphics/img20.png used on input line 395.
+(pdftex.def)             Requested size: 213.4005pt x 161.8287pt.
+ <graphics/img21.png, id=128, 602.25pt x 339.2675pt>
 File: graphics/img21.png Graphic file (type png)
  <use graphics/img21.png>
-Package pdftex.def Info: graphics/img21.png used on input line 390.
-(pdftex.def)             Requested size: 469.77148pt x 264.63792pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24 <./graphics/img20.png (PNG copy)>] <graphics/img22.png, id=173, 1003.75pt x 564.1075pt>
+Package pdftex.def Info: graphics/img21.png used on input line 401.
+(pdftex.def)             Requested size: 298.76253pt x 168.30289pt.
+ [12 <./graphics/img19.png (PNG copy)> <./graphics/img20.png (PNG copy)> <./graphics/img21.png (PNG copy)>] <graphics/img22.png, id=133, 1003.75pt x 564.1075pt>
 File: graphics/img22.png Graphic file (type png)
  <use graphics/img22.png>
-Package pdftex.def Info: graphics/img22.png used on input line 396.
-(pdftex.def)             Requested size: 469.75618pt x 264.00296pt.
- [25 <./graphics/img21.png (PNG copy)> <./graphics/img22.png (PNG copy)>] <graphics/img23.png, id=179, 803.0pt x 437.635pt>
+Package pdftex.def Info: graphics/img22.png used on input line 409.
+(pdftex.def)             Requested size: 355.6675pt x 199.88513pt.
+ <graphics/img23.png, id=134, 803.0pt x 437.635pt>
 File: graphics/img23.png Graphic file (type png)
  <use graphics/img23.png>
-Package pdftex.def Info: graphics/img23.png used on input line 404.
-(pdftex.def)             Requested size: 469.7715pt x 256.02545pt.
- <graphics/img24.png, id=180, 401.5pt x 452.69125pt>
+Package pdftex.def Info: graphics/img23.png used on input line 417.
+(pdftex.def)             Requested size: 298.75948pt x 162.82391pt.
+ <graphics/img24.png, id=135, 401.5pt x 452.69125pt>
 File: graphics/img24.png Graphic file (type png)
  <use graphics/img24.png>
-Package pdftex.def Info: graphics/img24.png used on input line 408.
-(pdftex.def)             Requested size: 469.78986pt x 529.68806pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [26 <./graphics/img23.png>] [27 <./graphics/img24.png>] [28
-
-] [29] [30
+Package pdftex.def Info: graphics/img24.png used on input line 419.
+(pdftex.def)             Requested size: 142.26698pt x 160.40604pt.
+ [13 <./graphics/img22.png (PNG copy)> <./graphics/img23.png> <./graphics/img24.png>] [14
 
 ]
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 423.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 434.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 423.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 434.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 423.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 434.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 423.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 434.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 423.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 434.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 
-Package natbib Warning: Citation `faranello2012balsamiq' undefined on input line 423.
+Package natbib Warning: Citation `faranello2012balsamiq' undefined on input line 434.
 
 
-LaTeX Warning: Marginpar on page 31 moved.
+LaTeX Warning: Marginpar on page 15 moved.
 
-<../assets/ist_logo.png, id=205, 310.91156pt x 376.40625pt>
+<../assets/ist_logo.png, id=149, 310.91156pt x 376.40625pt>
 File: ../assets/ist_logo.png Graphic file (type png)
  <use ../assets/ist_logo.png>
-Package pdftex.def Info: ../assets/ist_logo.png used on input line 428.
+Package pdftex.def Info: ../assets/ist_logo.png used on input line 439.
 (pdftex.def)             Requested size: 71.12862pt x 86.11212pt.
- <../assets/uab_logo.png, id=206, 282.30469pt x 79.79813pt>
+ <../assets/uab_logo.png, id=150, 282.30469pt x 79.79813pt>
 File: ../assets/uab_logo.png Graphic file (type png)
  <use ../assets/uab_logo.png>
-Package pdftex.def Info: ../assets/uab_logo.png used on input line 430.
+Package pdftex.def Info: ../assets/uab_logo.png used on input line 441.
 (pdftex.def)             Requested size: 142.26335pt x 40.21309pt.
  (/Users/Francisco/GitHub/balsamiq-guide/src/.texpadtmp/main.bbl) (/Users/Francisco/GitHub/balsamiq-guide/src/.texpadtmp/main.ind)
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 446.
-[31 <../assets/ist_logo.png> <../assets/uab_logo.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 446.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 457.
+[15
+
+ <../assets/ist_logo.png> <../assets/uab_logo.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 457.
  (/Users/Francisco/GitHub/balsamiq-guide/src/.texpadtmp/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 446.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 446.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 457.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 457.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 446.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 457.
  ) 
 Here is how much of TeX's memory you used:
- 13824 strings out of 493089
- 195676 string characters out of 6134841
+ 13826 strings out of 493089
+ 195839 string characters out of 6134841
  390570 words of memory out of 5000000
- 16973 multiletter control sequences out of 15000+600000
- 62027 words of font info for 80 fonts, out of 8000000 for 9000
+ 16984 multiletter control sequences out of 15000+600000
+ 64952 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,11n,45p,552b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on /Users/Francisco/GitHub/balsamiq-guide/src/.texpadtmp/main.pdf (31 pages, 2567723 bytes).
+ 40i,11n,45p,552b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on /Users/Francisco/GitHub/balsamiq-guide/src/.texpadtmp/main.pdf (15 pages, 2664459 bytes).
 PDF statistics:
- 251 PDF objects out of 1000 (max. 8388607)
- 176 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
- 2744 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 194 PDF objects out of 1000 (max. 8388607)
+ 129 compressed objects within 2 object streams
+ 26 named destinations out of 1000 (max. 500000)
+ 2762 words of extra memory for PDF output out of 10000 (max. 10000000)
 

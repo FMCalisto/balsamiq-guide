@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Guide Book (Documentation Template)
 % LaTeX Template
-% Version 1.0 (20/10/16)
+% Version 1.1 (22/10/16)
 %
 % This template has been downloaded from:
 % http://www.LaTeXTemplates.com
@@ -193,11 +193,14 @@
 % r.3 full title page
 \maketitle
 
+\let\cleardoublepage\clearpage
+
 % r.5 contents
 \tableofcontents
 
+\let\cleardoublepage\clearpage
+
 % r.9 introduction
-\cleardoublepage
 \chapter*{Introdução}
 
 \begin{center}
@@ -216,32 +219,52 @@ Neste guia serão explicados alguns fundamentos de iniciação ao Balsamiq e com
 % Start the main matter (normal chapters)
 \mainmatter
 
-\chapter{Instalação}
+\chapter{Ambiente Web}
 
-Por favor aceda ao \href{https://tecnico.mybalsamiq.com/}{MyBalsamiq} e introduza as suas credenciais.
+Por favor aceda ao \href{https://tecnico.mybalsamiq.com/}{MyBalsamiq} e introduza as suas credenciais:
 
 \begin{center}
-	\includegraphics{img25.png}
+	\includegraphics[width=7.50cm]{img26.png}
+	\hfill
+	\includegraphics[width=7.50cm]{img27.png}
 \end{center}
 
-Ou aceda ao link \href{https://balsamiq.com/}{balsamiq.com} e faça o download da aplicação para Desktop.
+Selecione o seu Projecto (iHospital ou iMall).
+
+Selecione \textbf{Add New Mockup...}
+
+Esta será a vista com que fica no final:
+
+\begin{center}
+	\includegraphics{img28.png}
+\end{center}
+
+\let\cleardoublepage\clearpage
+
+\chapter{Ambiente Desktop}
+
+Aceda ao link \href{https://balsamiq.com/}{balsamiq.com} e faça o download da aplicação para Desktop.
 
 \begin{center}
 	\includegraphics{img2.png}
 \end{center}
 
-Este guia será feito para a aplicação Desktop muito semelhante à aplicação em ambiente Web.
+Este guia está elaborado em \textbf{Ambiente Desktop} muito semelhante à aplicação em \textbf{Ambiente Web}. No entanto aconselhamos a utilização do \textbf{Ambiente Web} oferecida.
+
+\vspace{1.0cm}
+
+\textbf{ATENÇÃO}: o \textbf{Ambiente Desktop} apenas é oferecido durante 30 dias pelo que ao fim deste período terá funcionalidades limitadas.
 
 \chapter{Criar um Mockup}
 
 \begin{center}
-	\includegraphics{img3.png}
+	\includegraphics[width=11.50cm]{img3.png}
 \end{center}
 
 Esta é a página que verá quando abre o Balsamiq. É um novo projeto em branco.
 
 \begin{center}
-	\includegraphics{img4.png}
+	\includegraphics[width=11.50cm]{img4.png}
 \end{center}
 
 Uma nova maquete é uma nova vista para a aplicação que irá criar.
@@ -255,7 +278,7 @@ O smiley como ícone no canto superior direito é um atalho para abrir o painel 
 Existe um ícone de propriedades do projeto no canto superior direito onde pode definir as propriedades gerais do projeto. Tais como, descrição, skin, fontes de letra e cores.
 
 \begin{center}
-	\includegraphics{img5.png}
+	\includegraphics[width=7.50cm]{img5.png}
 \end{center}
 
 São dadas duas opções diferentes para a skin do Balsamiq - Sketch e wireframe.
@@ -264,16 +287,12 @@ São dadas duas opções diferentes para a skin do Balsamiq - Sketch e wireframe
 
 Sketch dá uma aparência áspera para o protótipo e wireframe parece mais limpo.
 
-\break
-
 Pode ver a diferença entre as duas imagens abaixo:
 
 \begin{center}
-	\includegraphics{img6.png}
-\end{center}
-
-\begin{center}
-	\includegraphics{img7.png}
+	\includegraphics[width=7.50cm]{img6.png}
+	\hfill
+	\includegraphics[width=7.50cm]{img7.png}
 \end{center}
 
 Pode mudar entre as skins em qualquer ponto no projeto, mas o alinhamento dos componentes pode mudar se alterá-lo mais tarde.
@@ -281,7 +300,7 @@ Pode mudar entre as skins em qualquer ponto no projeto, mas o alinhamento dos co
 Então, é um bom ponto escolher a skin no inicio de cada projecto.
 
 \begin{center}
-	\includegraphics{img8.png}
+	\includegraphics[width=7.50cm]{img8.png}
 \end{center}
 
 Ao selecionar qualquer componente da vista actual, um conjunto de ferramentas de edição rápida aparecer em cima do componente.
@@ -289,15 +308,13 @@ Ao selecionar qualquer componente da vista actual, um conjunto de ferramentas de
 Da esquerda para a direita, é: reverse, forward, duplicate, copy, paste, group, ungroup, (bring to front, push to back), (align, space out), lock, delete, zoom e hide.
 
 \begin{center}
-	\includegraphics{img9.png}
+	\includegraphics[width=7.50cm]{img9.png}
 \end{center}
 
 Agora o ícone da caixa dá-lhe propriedades adicionais para o componente. Tais como definir a altura e largura, a posição, a cor, links e outras propriedades que são específicas para cada componente.
 
-\break
-
 \begin{center}
-	\includegraphics{img10.png}
+	\includegraphics[width=7.50cm]{img10.png}
 \end{center}
 
 Se desejar importar uma imagem ou elemento media de externo, pode optar por fazê-lo, selecionando project -> import -> assets  e apenas importá-los.
@@ -311,15 +328,13 @@ Observe agora com atenção a criação de novas vistas que são fundamentais ma
 1) Arrastando o componente iPad para a vista:
 
 \begin{center}
-	\includegraphics{img11.png}
+	\includegraphics[width=10.50cm]{img11.png}
 \end{center}
-
-\break
 
 2) Definir as propriedades para o componente:
 
 \begin{center}
-	\includegraphics{img12.png}
+	\includegraphics[width=10.50cm]{img12.png}
 \end{center}
 
 \break
@@ -327,73 +342,71 @@ Observe agora com atenção a criação de novas vistas que são fundamentais ma
 3) Arrastou um componente da caixa da lista na vista:
 
 \begin{center}
-	\includegraphics{img13.png}
+	\includegraphics[width=7.50cm]{img13.png}
 \end{center}
 
 Para adicionar texto ao componente, clique duas vezes sobre o mesmo e pode também adicionar texto.
 
 Este recurso está disponível em todas as componentes, onde tem o recurso de adicionar texto.
 
-\break
-
 4) Escolha a seleção para o componente no painel de propriedades à direita:
 
 \begin{center}
-	\includegraphics{img14.png}
+	\includegraphics[width=7.50cm]{img14.png}
 \end{center}
 
 5) Adicione um componente media (logo):
 
 \begin{center}
-	\includegraphics{img15.png}
-\end{center}
-
-6) Mude de cor para a caixa das listas e adicione o texto:
-
-\begin{center}
-	\includegraphics{img16.png}
+	\includegraphics[width=7.50cm]{img15.png}
 \end{center}
 
 \break
 
+6) Mude de cor para a caixa das listas e adicione o texto:
+
+\begin{center}
+	\includegraphics[width=7.50cm]{img16.png}
+\end{center}
+
 7) Adicione vários componentes e crie o aplicativo do painel:
 
 \begin{center}
-	\includegraphics{img17.png}
+	\includegraphics[width=7.50cm]{img17.png}
 \end{center}
 
 8) Clique no lado direito sobre maquete e duplique-a para a próxima vista:
 
 \begin{center}
-	\includegraphics{img18.png}
+	\includegraphics[width=7.50cm]{img18.png}
 \end{center}
 
 'Links' são onde pode vincular um componente para outro mockup, endereço web ou voltar se estiver no modo de apresentação.
 
 \begin{center}
-	\includegraphics{img19.png}
+	\includegraphics[width=7.50cm]{img19.png}
 \end{center}
 
 Desta forma, pode selecionar um componente e, em seguida, clique na opção de link no painel de propriedades para vinculá-lo.
 
-\break
-
 9) O botão de play significa ir para o modo de apresentação:
 
 \begin{center}
-	\includegraphics{img20.png}
+	\includegraphics[width=7.50cm]{img20.png}
 \end{center}
 
 Qualquer componente que revela um ícone semelhante a uma mão quando passa o ponteiro do rato sobre o mesmo tem um link anexado.
 
 \begin{center}
-	\includegraphics{img21.png}
+	\includegraphics[width=10.50cm]{img21.png}
 \end{center}
+
+\break
 
 10) Quando clicou no botão verde de alternância, o botão alterna para revelar uma visualização do mapa:
 
 \begin{center}
-	\includegraphics{img22.png}
+	\includegraphics[width=12.50cm]{img22.png}
 \end{center}
 
 E o ícone superior direito sai da vista de apresentação.
@@ -401,11 +414,9 @@ E o ícone superior direito sai da vista de apresentação.
 11) Tem a opção de exportar uma única vista como uma imagem PNG, mas se deseja exportar o projeto como um wireframe clicável interativo, tem a opção de exportá-lo como um PDF:
 
 \begin{center}
-	\includegraphics{img23.png}
-\end{center}
-
-\begin{center}
-	\includegraphics{img24.png}
+	\includegraphics[width=10.50cm]{img23.png}
+	\hfill
+	\includegraphics[width=5.00cm]{img24.png}
 \end{center}
 
 \chapter{Sumário}
